@@ -11,7 +11,7 @@ function App() {
       <div className="app">
         <div className="mode-selector">
           <div className="mode-selector-content">
-            <h1 className="app-title">FileShare</h1>
+            <h1 className="app-title">AirShare</h1>
             <p className="app-subtitle">Instant file sharing</p>
             <div className="mode-buttons">
               <button 
