@@ -136,13 +136,13 @@
   }
   
   .app-title {
-    font-size: 2rem;
-    margin-bottom: 0.25rem;
+    font-size: 3.5rem;
+    margin-bottom: .25rem;
   }
   
   .app-subtitle {
     font-size: 1rem;
-    margin-bottom: 2rem;
+    margin-bottom: 2.5rem;
   }
   
   .mode-button {
